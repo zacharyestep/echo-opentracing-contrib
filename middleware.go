@@ -1,7 +1,7 @@
 package apm
 
 import (
-	"github.com/labstack/echo/v4"
+	"github.com/zacharyestep/echo/v4"
 	"github.com/opentracing/opentracing-go"
 	"github.com/opentracing/opentracing-go/ext"
 	"net/http"
